@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anvesh Dikondwar</h1>
-<h3 align="center">I'm a Java developer, My primary focus is on crafting robust and scalable backend systems using Java. Over the years, I've honed my skills in areas such as API design, database management, and performance optimization, I'm passionate about delivering reliable solutions that drive the success of applications. My experience with Java framworks like Spring and Hibernate, coupled with a deep understanding of server-side architecture, ensures thar I can efficiently build and maintain backend components. I thrive on challenges and am committed to staying update withh the latest trends in backend development.</h3>
+<h3 align="center">I'm Backend Developer in India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
